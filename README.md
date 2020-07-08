@@ -9,16 +9,18 @@ Humanlike mouse movement replicator. Proof of concept. Windows only.
  ```
  ![Demo](demo/demo.gif)
  
- #### Notes:
+ ## Notes:
  
- ## Usage of the mouse movement engine
+ #### Usage of the mouse movement engine
   ```bash
  movemouse(x, y)
   ```
  
+ #### How it works
  This program uses pre-recorded mouse delta movements and millisecond timings and chooses an individual stroke appropriate by length. It rotates the matrix, scales to fit and executes the mouse movement with the speed of windows mouse polling rate. (200Hz)
 Clickdata.zip contains 3,280 individual mouse strokes performed on a 1920x1080 screen. The format of the data is: Δx.Δy.Δms and the character "|" as a separator.
  
+ #### Personal notes
 This program is not quite useful as it is unless you want to cheat an anti-bot system or look like you're busy working. 
 The point of this project is the movement engine itself.
 
