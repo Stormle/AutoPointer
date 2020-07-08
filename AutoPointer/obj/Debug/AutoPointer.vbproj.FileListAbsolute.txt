@@ -1,0 +1,23 @@
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\bin\Debug\AutoPointer.exe.config
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\bin\Debug\AutoPointer.exe
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\bin\Debug\AutoPointer.pdb
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\bin\Debug\AutoPointer.xml
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.vbprojAssemblyReference.cache
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.Form1.resources
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.Resources.resources
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.vbproj.GenerateResource.cache
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.vbproj.CoreCompileInputs.cache
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.exe
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.xml
+C:\Users\blackbox\source\repos\AutoPointer\AutoPointer\obj\Debug\AutoPointer.pdb
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\bin\Debug\AutoPointer.exe.config
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\bin\Debug\AutoPointer.exe
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\bin\Debug\AutoPointer.pdb
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\bin\Debug\AutoPointer.xml
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.vbprojAssemblyReference.cache
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.Form1.resources
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.Resources.resources
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.vbproj.GenerateResource.cache
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.exe
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.xml
+D:\2020-backup\VB kansiot\repos-2020\AutoPointer\AutoPointer\obj\Debug\AutoPointer.pdb
